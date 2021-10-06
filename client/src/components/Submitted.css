@@ -1,0 +1,26 @@
+.Submitted {
+    text-align: center;
+}
+
+.SubmittedMessage {
+    text-align: center;
+    margin: 50px;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+    color: white;
+}
+
+.GoHomeButton {
+    cursor: pointer;
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.GoHomeButtonText {
+    padding: 5px;
+}

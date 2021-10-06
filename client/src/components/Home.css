@@ -1,0 +1,74 @@
+.Home {
+    text-align: center;
+}
+
+.Header {
+    font-family: 'Fredoka One', cursive;
+    color: white;
+    font-size: 50px;
+    margin-top: 80px;
+}
+
+.Credits {
+    margin-top: 10px;
+    font-family: 'Fredoka One', cursive;
+    color: white;
+    font-size: 20px;
+}
+
+.Request {
+    text-align: center;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 1;
+    font-size: 20px;
+    margin-top: 50px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid white;
+}
+
+.Request::placeholder {
+    color: rgb(43, 43, 43);
+}
+
+.ErrorMessage {
+    margin-top: 20px;
+}
+
+.ErrorMessageText {
+    font-family: 'Open Sans', sans-serif;
+    color: red;
+}
+
+.RequestButton {
+    cursor: pointer;
+    margin-top: 10px;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+.RequestButtonText{
+    font-family: 'Fredoka One', cursive;
+    font-size: 20px;
+    color: white;
+    margin: 10px;
+}
+
+.QueueHeading {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.QueueHeadingText {
+    text-align: center;
+    padding-bottom: 20px;
+    display: inline-block;
+    width: 25%;
+    margin-top: 20px;
+    font-family: 'Fredoka One', cursive;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid white;
+}
